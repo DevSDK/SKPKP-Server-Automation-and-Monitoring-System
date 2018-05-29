@@ -13,6 +13,7 @@ Thus, this is not used **officially** and **real world product**
 
 STATUS : **UNDER PROGRESS**
  <a name="Librarys"/>
+ 
 ## Librarys
 
 Following sections is description of Librarys which is needed for development
@@ -34,8 +35,11 @@ RTTP is abbreviation of "Rednet Text Transfer Protocol"
 The ComputerCraft support **rednet API** functions that work like minimal **Socket**. So that make a lot of repetitive codes for networking via **rednet API**. For that reason, I decide to develop **RTTP Library**
 
 RTTP works like minimal **HTTP**, So RTTP provides you the simple-text-transfer way.
+
 <a name="RTTP-Library-Functions"/>
+
 #### RTTP Library Functions 
+
 |Function           |   Description        |                Arguments              |                      Returns    |
 |:-----------------:|:--------------------:|:-------------------------------------:|:-------------------------------:|
 | open(side)            |Open the network side | side : The side of network line connection |                                 |
